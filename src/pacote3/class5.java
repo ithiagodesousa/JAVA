@@ -11,5 +11,10 @@ public class class5 {
 			System.out.println(x);
 			
 		};
+		
+		for(int x = 1; x <= 10; x++){
+			System.out.println(x);
+			
+		};
 	}
 }
